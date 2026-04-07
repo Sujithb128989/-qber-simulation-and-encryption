@@ -1,0 +1,7 @@
+env/
+venv/
+__pycache__/
+*.pyc
+encrypted_videos/
+decrypted_videos/
+noise_correlation_graph.png
