@@ -5,3 +5,7 @@ __pycache__/
 encrypted_videos/
 decrypted_videos/
 noise_correlation_graph.png
+
+# Video datasets
+archive/
+input_videos/
